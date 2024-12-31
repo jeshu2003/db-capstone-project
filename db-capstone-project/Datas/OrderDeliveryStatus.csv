@@ -1,0 +1,4 @@
+DeliveryDate,Status,OrderID,CustomerID
+2024-01-16,Delivered,1,1
+2024-01-17,Pending,2,2
+2024-01-18,Shipped,3,3
